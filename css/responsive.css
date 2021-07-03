@@ -1,0 +1,176 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.single-img-blk {
+	height: 240px;
+	
+}
+.footer-right-all-widget .single-footer-widget:last-child {
+
+	margin-left: 101px;
+}  
+    
+    
+    
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.hero-area {
+	height: 570px;
+	
+} 
+.sk-right-img {
+	position: unset;
+	width: 100%;
+} 
+.skill-main-warp {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 0;
+}   
+.single-counter-blk {
+	margin-bottom: 25px;
+} 
+.counter-up-area {
+	
+	padding-top: 50px;
+	padding-bottom: 50px;
+}  
+.testiomonial-area {
+	padding: 70px 0;
+}   
+.testiomonial-area .owl-dots {
+	margin-top: 34px;
+} 
+.footer-right-all-widget .single-footer-widget:last-child {
+	margin-right: 0;
+	margin-left: 0;
+}  
+    
+    
+    
+    
+}
+
+
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+
+.hero-content {
+	padding: 0 0px;
+}  
+.hero-area {
+	height: 470px;
+
+}  
+.sk-right-img {
+	position: unset;
+	width: 100%;
+} 
+.skill-main-warp {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 0;
+}   
+.single-counter-blk {
+	margin-bottom: 25px;
+} 
+.counter-up-area {
+	
+	padding-top: 50px;
+	padding-bottom: 50px;
+}  
+.testiomonial-area {
+	padding: 70px 0;
+}   
+.testiomonial-area .owl-dots {
+	margin-top: 34px;
+} 
+.footer-right-all-widget .single-footer-widget:last-child {
+	margin-right: 0;
+	margin-left: 0;
+}  
+.video-section {
+	
+	height: 400px;
+}  
+
+.signle-logo-item {
+  max-width: 33.3333%;
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 33.3333%;
+  flex: 0 0 33.3333%;
+  margin-bottom: 25px;
+}
+.logo-area {
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.footer-right-all-widget {
+	
+	margin-left: 0;
+}  
+.footer-action-link {
+	margin-top: 25px;
+	margin-bottom: 30px;
+}
+    
+    
+.mean-container .mean-bar {
+	
+	background: transparent;
+	
+} 
+.mean-container a.meanmenu-reveal span {
+	background: #000;
+	height: 2px;
+	margin-top: 5px;
+} 
+.mean-container a.meanmenu-reveal {
+	height: auto;
+	padding: 0;
+	position: absolute;
+	top: -25px;
+    color: #000;
+	
+} 
+
+    
+.mean-container .mean-nav {
+	margin-top: 15px;
+	position: absolute;
+	top: 3px;
+	left: 0;
+	width: 100%;
+    background: #50bab6;
+} 
+.header_area {
+
+	padding-bottom: 0;
+} 
+.mean-container .mean-nav {
+
+	background: #50bab6;
+
+}
+    
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) 
+
+ 
